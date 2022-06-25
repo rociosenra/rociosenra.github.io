@@ -11,22 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in International Affairs, Universidad de San Andrés, 2014-2018
+* M.A. in Economics, Universidad de San Andrés, 2021-2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* December 2021-March 2022: Research Assistant
+  * Proyecto Abrazar
+  * Duties included: Data cleaning, recodification and construction of new variables based on the Multiple Indicator Cluster Survey (MICS), to be used in a predictive model of cases of violence against children. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
+* January 2021-current date: Project Analyst
+  * GROW Gender & Work
+  * Duties included: ...
+ 
+* April 2018-April 2021: Research Analyst
+  * JPMorgan Chase & Co. 
+  * Duties included: ...
+
+
 Skills
 ======
 * Skill 1
