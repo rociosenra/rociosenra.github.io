@@ -3,7 +3,7 @@ title: "Quantitative Analysis Techniques for International Affairs and Political
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/quantitative_techniques
-venue: "Universidad de San Andrés, Departmento de Ciencias Sociales"
+venue: "Universidad de San Andrés, Departamento de Ciencias Sociales"
 date: 2021-01-01
 location: "Buenos Aires, Argentina"
 ---
